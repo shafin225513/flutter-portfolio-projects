@@ -17,3 +17,6 @@ https://github.com/shafin225513/flutter-movie-API.git
 
 ## Flutter UI Designs:
 https://github.com/shafin225513/flutter-UI.git
+
+## Flutter API (CRUD) Integration:
+https://github.com/shafin225513/API-CRUD-Integration.git
