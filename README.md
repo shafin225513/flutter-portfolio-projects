@@ -20,3 +20,6 @@ https://github.com/shafin225513/flutter-UI.git
 
 ## Flutter API (CRUD) Integration:
 https://github.com/shafin225513/API-CRUD-Integration.git
+
+## Flutter GenUI:
+https://github.com/shafin225513/flutter-genUI.git
