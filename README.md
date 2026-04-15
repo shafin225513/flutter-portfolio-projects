@@ -23,3 +23,6 @@ https://github.com/shafin225513/API-CRUD-Integration.git
 
 ## Flutter GenUI:
 https://github.com/shafin225513/flutter-genUI.git
+
+## Flutter Local Business App for a Client:
+https://github.com/shafin225513/FB-page-Business-app.git
